@@ -116,7 +116,7 @@ a:hover {
 }
 #dropDown:hover {
     background-color: #fff !important;
-    border-left: 2px solid #0c87e2 !important;
+    border-left: 6px solid #0c87e2 !important;
     padding: 10px 30px !important;
     font-weight: none;
 }
