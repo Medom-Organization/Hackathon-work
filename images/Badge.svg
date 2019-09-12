@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="67" viewBox="0 0 44 67">
+  <g id="Badge" transform="translate(-1320 -516)">
+    <g id="Rectangle_204" data-name="Rectangle 204" transform="translate(1329 520)" fill="#0c87e2" stroke="#0c87e2" stroke-width="1">
+      <rect width="25" height="49.445" rx="12.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="24" height="48.445" rx="12" fill="none"/>
+    </g>
+    <rect id="Rectangle_205" data-name="Rectangle 205" width="15" height="49.445" rx="7.5" transform="translate(1334 516)" fill="#0aa7e5"/>
+    <g id="Ellipse_95" data-name="Ellipse 95" transform="translate(1323 542)" fill="#e18926" stroke="#fbb03b" stroke-linecap="round" stroke-width="3">
+      <circle cx="19" cy="19" r="19" stroke="none"/>
+      <circle cx="19" cy="19" r="20.5" fill="none"/>
+    </g>
+    <circle id="Ellipse_94" data-name="Ellipse 94" cx="12.5" cy="12.5" r="12.5" transform="translate(1330 549)" fill="#fbb03b"/>
+    <path id="ic_star_24px" d="M8.913,12.555l4.272,2.578-1.134-4.86L15.825,7l-4.97-.422L8.913,2,6.97,6.583,2,7l3.774,3.27-1.134,4.86Z" transform="translate(1333 552)" fill="#e18926"/>
+  </g>
+</svg>

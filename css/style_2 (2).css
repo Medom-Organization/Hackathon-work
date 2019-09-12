@@ -1,0 +1,217 @@
+body  {
+    padding: 0px !important;
+    margin: 0px !important;
+    background-color: #efefef !important;
+}
+.container-fluid {
+    margin: 0px !important;
+    padding: 0px !important;
+}
+.sidenav {
+    background-color: #fff;
+    height: auto;
+    margin: 0px !important;
+    padding: 0px !important;
+    cursor: pointer;
+}
+.active {
+  color: #fff !important;
+  background: #fff !important;
+}
+a {
+    color:#0c87b2 !important;
+}
+ul, li {
+  list-style: none;
+  line-height: 30px;
+  margin: 0 !important;
+  padding: 0 !important;
+  /* margin-left: 18px !important; */
+}
+.dropdown-item::before {
+  content: "\2022";  
+  color: #1068ED;
+  font-weight: bolder; 
+  display: inline-block; 
+  width: 1em; 
+  margin-right: 0.5em; 
+  padding: 0 !important;
+  margin-left: -40px;
+}
+.navBrand {
+    background-color: #fff !important;
+    margin-bottom: 20px !important; 
+}
+h5 {
+    font-size: 24px !important;
+}
+#name {
+    color: black !important;
+    font-size: 15px;
+}
+#btns {
+    background-color: #bbbab8;
+    font-size: 14px !important;
+    padding: 0 30px !important;
+    border: none;
+}
+.btnS {
+    border-radius: 0 !important;
+    font-size: 12px !important;
+}
+.col-form-label {
+    font-size: 13px !important;
+    line-height: 1px;
+    margin: 0 !important;
+}
+#formGroupExampleInput {
+    border-radius: 0 !important;
+    border: 0;
+    border-bottom: 1px  solid #aaaaaa !important;
+    line-height: 1px !important;
+}
+#formGroupExampleInput:hover {
+    border-bottom: 1px  solid #1068ED  !important;
+    cursor: pointer;
+}
+#exampleModal {
+    /* position: absolute; */
+    width: 506px;
+    height: 703px;
+    left: 430px;
+    /* top: 163px; */
+}
+.buttonS {
+    width: 100% !important;
+}
+.modal-body {
+    padding: 0 15px !important;
+}
+.forForm {
+    font-size: 13px !important;
+}
+.btnZ {
+    font-size: 12px !important;
+    background: #ffffff !important; 
+    border: 1px solid #1068ED !important;
+}
+.formGroupExampleInput2 {
+    font-size: 13px;
+}
+p{
+    font-size: 13px;
+}
+a:hover {
+    text-decoration: none !important;
+}
+.btns {
+    background: none !important;
+    border: none !important; 
+}
+.arrow:before {
+    font-family: FontAwesome;
+    content: "\f0d7";
+    vertical-align: middle;
+    float: right;
+}
+#dropDown:hover {
+    background-color: #fff !important;
+    border-left: 2px solid #1068ED !important;
+    padding: 10px 30px !important;
+    font-weight: none;
+}
+li {
+    padding: 10px 30px !important;
+}
+#dropdown-item:hover {
+    background-color: #fff !important; 
+}
+#dropdown-item {
+    margin-left: 30px !important;
+}
+
+.headNavv {
+    background-color: #ffffff ;
+}
+.dropdown-divider {
+    width: 100% !important;
+    height: 100%;
+}
+.dropdown-item2::before {
+    content: none !important;  
+}
+.dropdown-menu2 {
+    background-color: #FBFBFB !important;
+    width: 200px !important;
+    margin-left: 30px;
+    border-radius: 0 !important;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.dropdown-menu2:hover {
+    background-color: none !important;
+}
+.dropdown-item2 {
+    font-size: 15px !important;
+    color: #929292 !important;
+}
+.dropdown-menu2:hover {
+    background-color: none !important; 
+}
+h5 {
+    font-size: 18px !important;
+}
+h4 {
+    font-size: 24px;
+}
+.breadcrumb {
+    background: none !important;
+}
+.breadcrumb {
+    color: #929292 !important;
+    font-size: 15px !important;
+}
+.item2 {
+    color: #333333 !important;
+    font-size: 15px !important;
+    cursor: pointer;
+}
+.hr {
+    width: 2px;
+    height: 180px;
+    background-color: #DADADA;
+}
+.card {
+    background-color: #EFEFEF !important;
+    border-radius: 10px;
+    border: none !important;
+    width: 116px;
+    height: 60px;
+    line-height: 0px !important;
+}
+thead {
+    background: #EFEFEF !important;
+    border: 1px solid white !important;
+}
+table {
+    width: 95% !important;
+    /* border: 1px solid #EFEFEF !important; */
+    border: 0px;
+}
+.vendorHeader {
+    background: #F7F7F7;
+}
+.vendorList {
+    border-right: 1px solid #efefef;
+    border-left: 1px solid #efefef;
+    border-bottom: 1px solid #efefef;
+}
+.td {
+    
+    border-right: 1px solid #efefef !important;
+    border-bottom: 1px solid #efefef !important;
+}
+.td1 {
+    border-bottom: 1px solid #efefef !important;
+}
+
+
