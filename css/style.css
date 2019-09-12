@@ -243,3 +243,20 @@ table {
     height: 2.5rem;
 }
 
+.patients {
+    background: #07e89d;
+    border-radius: 10px;
+    padding: 30px 0;
+}
+.staffs {
+    background: #0c87e2;
+    border-radius: 10px;
+    padding: 30px 0px !important;
+}
+.dueVisits {
+    background: #fff;
+}
+.number {
+    font-size: 4rem;
+    line-height: 2rem;
+}
